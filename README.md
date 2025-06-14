@@ -49,7 +49,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/seo-content-analyzer.git
+git clone https://github.com/Pixeler5diti/SEO-Content-Analyzer.git
 cd seo-content-analyzer
 
 # Install dependencies
